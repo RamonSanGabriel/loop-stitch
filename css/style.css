@@ -32,7 +32,7 @@ img {
   padding: 24px 156px;
   position: fixed;
   background-color: #fff;
-  width: 100%;
+  /* width: auto; */
   z-index: 100;
 }
 
