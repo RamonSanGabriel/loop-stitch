@@ -30,10 +30,11 @@ img {
 .container {
   display: inline-flex;
   padding: 24px 156px;
-  position: fixed;
+  /* position: fixed; */
   background-color: #fff;
   width: 100%;
-  /* z-index: 100; */
+  /* border-bottom: 2px solid grey;
+  margin-bottom: 30px; */
 }
 
 .nav-menu {
