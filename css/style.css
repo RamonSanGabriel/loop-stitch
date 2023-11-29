@@ -48,7 +48,7 @@ img {
   list-style: none;
   align-items: center;
   gap: 48px;
-  width: 100%;
+  /* width: 100%; */
 }
 
 .nav-address {
@@ -62,7 +62,7 @@ img {
   list-style: none;
   margin-left: 500px;
   gap: 48px;
-  width: 100%;
+  /* width: 100%; */
 }
 
 .email,
